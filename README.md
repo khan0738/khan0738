@@ -1,5 +1,5 @@
 - 👋　初めまして, I’m Han よろしく！
-- 👀 I’m interested in all things Space,　Fluids Engineering and 日本語の勉強が好きです。
+- 👀 I’m interested in all things Space, Fluids Engineering and 日本語の勉強が好きです。
 - 🌱 I’m currently learning Python, but hope to expand my programming knowledge.
 - 😄 Pronouns: He/Him
 
